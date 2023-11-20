@@ -8,6 +8,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tenologi
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-rodando-o-projeto">Rodar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -34,9 +35,37 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+## :gear: Rodando o Projeto
+
+Caso não tenha o VSCode instalado, sugiro que o utilize para seguir todas as etapas aqui corretamente. Utilize este [link](https://code.visualstudio.com/download) do site oficial para baixar na sua máquina.
+
+Clone o projeto para sua máquina:
+
+```
+$ git clone https://github.com/nunesd66/linktree-rocketseat.git
+```
+
+Depois Abra o projeto no VSCode:
+
+```
+$ cd linktree-rocketseat/
+```
+```
+$ code .
+```
+
+No VSCode, na parte de extensões (Atalho: Ctrl + Shift + X), procure e baixe a extensão [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus).
+<p align="start">
+  <img alt="Página da extensão Live Server no VSCode" src="./.github/live-server-2023-vscode-extension.png">
+</p>
+Após instalada, aparecerá no canto inferior direito do editor VSCode o ícone do Liver Server, escrito Go Live. Basta clicar para visualizar o projeto funcionando. Abrirá uma janela no navegador.
+<p align="start">
+  <img alt="Ícone de iniciar o Liver Server no VSCode" src="./.github/go-live-2023-vscode.png">
+</p>
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/qckXTrd5KAafP3U26lUM1J/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&t=2H9Un3EF3q4c1hgc-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/qckXTrd5KAafP3U26lUM1J/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&t=2H9Un3EF3q4c1hgc-6>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -44,4 +73,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+by [Rocketseat](https://www.rocketseat.com.br/)
