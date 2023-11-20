@@ -8,7 +8,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tenologi
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-rodando-o-projeto">Rodar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-rodando-o-projeto">Rodando o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -37,9 +37,9 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## :gear: Rodando o Projeto
 
-Caso não tenha o VSCode instalado, sugiro que o utilize para seguir todas as etapas aqui corretamente. Utilize este [link](https://code.visualstudio.com/download) do site oficial para baixar na sua máquina.
+Caso não tenha o VSCode instalado, sugiro que o utilize para seguir todas as etapas a seguir. Utilize este [link](https://code.visualstudio.com/download) do site oficial para baixar o VSCode na sua máquina.
 
-Clone o projeto para sua máquina:
+No terminal, aberto na pasta que baixará o projeto, clone-o para sua máquina:
 
 ```
 $ git clone https://github.com/nunesd66/linktree-rocketseat.git
